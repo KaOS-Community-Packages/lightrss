@@ -1,5 +1,5 @@
 pkgname=lightrss
-pkgver=0.2
+pkgver=0.3
 pkgrel=1
 pkgdesc="A simple qt based rss feed reader"
 url="https://github.com/deussomniat/${pkgname}"
@@ -12,7 +12,7 @@ source=(
     'lightrss.desktop'
 )
 sha256sums=(
-    '0dc100451b7d3dbad1a9bfa9528bb68a18041d09d26eaae2964d0bb5ae44d714'
+    '5d932e86a059a092462bb3195860cffc80ee5f683e968bea3edde76114078ae3'
     '48922e5c467ca65c1b6cbdbe84782f2256852ed0db72307ca946febcee97ecca'
 )
 
