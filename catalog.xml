@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <feeds>
+        <item>
+            <url>https://kaosx.us/feed.xml</url>
+            <iurl>https://kaosx.us/img/kaos_logo.svg</iurl>
+        </item>
+    </feeds>
+</catalog>
